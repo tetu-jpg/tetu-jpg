@@ -125,16 +125,6 @@ Hello! I'm **Tesnim Abdella**, a Software Engineering student and developer from
 
 </div>
 
----
-
-<!-- ========== TROPHIES ========== -->
-
-
-
-<!-- ========== CONTRIBUTION GRAPH ========== -->
-
-
----
 
 <!-- ========== VISITOR COUNTER ========== -->
 
