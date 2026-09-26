@@ -88,17 +88,14 @@ Hello! I'm **Tesnim Abdella**, a Software Engineering student and developer from
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/tetu-jpg">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetu-jpg&repo=ishraq&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/tetu-jpg/Bootcamp_Management_System">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tetu-jpg&repo=Bootcamp_Management_System&theme=tokyonight&hide_border=true" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/tetu-jpg/Climate-effect-on-crop-production">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetu-jpg&repo=Climate-effect-on-crop-production&theme=tokyonight&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tetu-jpg&repo=Climate-effect-on-crop-production&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/tetu-jpg/Superstore">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetu-jpg&repo=Superstore&theme=tokyonight&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tetu-jpg&repo=Superstore&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -115,11 +112,8 @@ Hello! I'm **Tesnim Abdella**, a Software Engineering student and developer from
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tetu-jpg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetu-jpg&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tetu-jpg&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetu-jpg&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -145,11 +139,12 @@ Hello! I'm **Tesnim Abdella**, a Software Engineering student and developer from
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tetu-jpg&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tetu-jpg&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
 </div>
-
 ---
 
 <!-- ========== VISITOR COUNTER ========== -->
