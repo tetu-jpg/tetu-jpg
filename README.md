@@ -138,27 +138,9 @@ Hello! I'm **Tesnim Abdella**, a Software Engineering student and developer from
 
 <!-- ========== TROPHIES ========== -->
 
-## 🏆 GitHub Trophies
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tetu-jpg&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
 
-</div>
-
----
-
-<!-- ========== CONTRIBUTION GRAPH ========== -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tetu-jpg&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
 
 <!-- ========== VISITOR COUNTER ========== -->
 
