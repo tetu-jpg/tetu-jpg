@@ -136,15 +136,15 @@ Hello! I'm **Tesnim Abdella**, a Software Engineering student and developer from
 
 <!-- ========== CONTRIBUTION GRAPH ========== -->
 
-## 📈 Contribution Activity
+<h2 align="center">📊 Contribution Activity</h2>
 
-<div align="center">
+<p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tetu-jpg&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tetu-jpg&theme=tokyo-night"
+    alt="GitHub Contribution Graph"
     width="100%"
-    alt="GitHub Contribution Activity"
   />
-</div>
+</p>
 ---
 
 <!-- ========== VISITOR COUNTER ========== -->
