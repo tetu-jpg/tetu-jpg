@@ -133,13 +133,7 @@ Hello! I'm **Tesnim Abdella**, a Software Engineering student and developer from
 
 <!-- ========== CONTRIBUTION GRAPH ========== -->
 
-<h2 align="center">📈 Contribution Activity</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tetu-jpg"
-       alt="GitHub Contribution Graph"
-       width="100%">
-</p>
 ---
 
 <!-- ========== VISITOR COUNTER ========== -->
