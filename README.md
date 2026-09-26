@@ -85,17 +85,21 @@ Hello! I'm **Tesnim Abdella**, a Software Engineering student and developer from
 
 <!-- ========== PROJECTS ========== -->
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/tetu-jpg/Bootcamp_Management_System">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tetu-jpg&repo=Bootcamp_Management_System&theme=tokyonight&hide_border=true" />
+    <b>Bootcamp Management System</b>
   </a>
-  <a href="https://github.com/tetu-jpg/Climate-effect-on-crop-production">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tetu-jpg&repo=Climate-effect-on-crop-production&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/tetu-jpg/Superstore">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tetu-jpg&repo=Superstore&theme=tokyonight&hide_border=true" />
+  <br>
+  A web-based system for managing bootcamp students, mentors, batches, and tasks.
+</p>
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <a href="https://github.com/tetu-jpg">
+    View my GitHub profile and repositories
   </a>
 </p>
 
@@ -109,14 +113,7 @@ Hello! I'm **Tesnim Abdella**, a Software Engineering student and developer from
 
 <!-- ========== GITHUB STATS ========== -->
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tetu-jpg&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetu-jpg&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 <!-- ========== CONTRIBUTION STREAK ========== -->
 
@@ -136,12 +133,12 @@ Hello! I'm **Tesnim Abdella**, a Software Engineering student and developer from
 
 <!-- ========== CONTRIBUTION GRAPH ========== -->
 
-<h2 align="center">📊 Contribution Activity</h2>
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=tetu-jpg&theme=tokyo-night"
-    alt="GitHub Contribution Graph"
+    alt="Contribution Activity Graph"
     width="100%"
   />
 </p>
