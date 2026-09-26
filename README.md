@@ -88,7 +88,7 @@ Hello! I'm **Tesnim Abdella**, a Software Engineering student and developer from
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/tetu-jpg/Bootcamp_Management_System">
+  <a href="https://github.com/Rihla-V-Bootcamp-Management-System/Bootcamp_Management_System">
     <b>Bootcamp Management System</b>
   </a>
   <br>
