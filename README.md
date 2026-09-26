@@ -89,22 +89,22 @@ Hello! I'm **Tesnim Abdella**, a Software Engineering student and developer from
 
 <p align="center">
   <a href="https://github.com/tetu-jpg">
-
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetu-jpg&repo=ishraq&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/tetu-jpg/Climate-effect-on-crop-production">
-    
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetu-jpg&repo=Climate-effect-on-crop-production&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/tetu-jpg/Superstore">
-    
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetu-jpg&repo=Superstore&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/tetu-jpg?tab=repositories">
-   
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -116,6 +116,9 @@ Hello! I'm **Tesnim Abdella**, a Software Engineering student and developer from
 
 <div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tetu-jpg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetu-jpg&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -137,7 +140,17 @@ Hello! I'm **Tesnim Abdella**, a Software Engineering student and developer from
 
 
 
+<!-- ========== CONTRIBUTION GRAPH ========== -->
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tetu-jpg&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
 
 <!-- ========== VISITOR COUNTER ========== -->
 
